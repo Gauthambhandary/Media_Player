@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Media Player">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Media Player/dist/Media Player.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
